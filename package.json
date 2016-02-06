@@ -1,0 +1,24 @@
+{
+  "name": "nodeexpressstatic",
+  "version": "1.0.0",
+  "description": "first time working on express static and deploying to heroku",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajurado2204/nodeExpressStatic.git"
+  },
+  "author": "Alejandra Jurado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajurado2204/nodeExpressStatic/issues"
+  },
+  "homepage": "https://github.com/ajurado2204/nodeExpressStatic#readme"
+}
